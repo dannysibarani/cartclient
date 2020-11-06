@@ -1,6 +1,6 @@
 # cartclient
 
-> Nuxt.js project
+Ecommerce frontend with Nuxtjs (Vuejs + Bulma)
 
 ## Build Setup
 
